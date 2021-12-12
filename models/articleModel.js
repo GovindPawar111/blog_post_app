@@ -45,4 +45,4 @@ articleSchema.pre("validate", function (next) {
 
 // exporting model
 const articleModel= mongoose.model("Article", articleSchema);
-module.exports = {articleModel};
+module.exports = articleModel;
