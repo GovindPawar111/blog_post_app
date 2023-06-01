@@ -2,7 +2,7 @@
 
 This website is create with the Express, ejs and mongodb for database. it is hosted on render with MongoDb Atlas.
 
-[Blog_post_app](https://blog-post-webapp.herokuapp.com/)
+[Blog_post_app](https://blogpostnodeapplication.onrender.com/)
 
 Environment variables are
 
